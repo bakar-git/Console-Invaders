@@ -26,7 +26,7 @@
 
 ## About The Project
 
-![Project Screen Shot 3](https://github.com/bakar-git/Console-Invaders/blob/main/SS/Level1%20b.png)
+![Project Screen Shot 3](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/Level1%20b.png)
 
 ### Background
 
@@ -47,7 +47,7 @@ I made this project in 2nd semester. It is made in C++ and not uses any kind of 
 
 1. Clone the repo
 2. Move 'sounds' directory to path where executable will be compiled i.e
-![placing sounds directory](https://github.com/bakar-git/Console-Invaders/)
+![placing sounds directory](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/Sound%20Dir.png)
 
 ## License
 
@@ -59,6 +59,6 @@ Abu Bakar - [@BakarAamir](https://twitter.com/BakarAamir) - bakar.git@gmail.com
 
 ## Screen Shots
 
-![Project Screen Shot 1](https://github.com/bakar-git/Console-Invaders/blob/main/SS/WelcomeScreen.png)
-![Project Screen Shot 2](https://github.com/bakar-git/Console-Invaders/blob/main/SS/Level1%20a.png)
-![Project Screen Shot 4](https://github.com/bakar-git/Console-Invaders/blob/main/SS/GameOver.png)
+![Project Screen Shot 1](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/WelcomeScreen.png)
+![Project Screen Shot 2](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/Level1%20a.png)
+![Project Screen Shot 4](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/GameOver.png)
