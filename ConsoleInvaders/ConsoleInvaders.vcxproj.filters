@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Environment.cpp">
+      <Filter>includes\Helper Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Helpers.cpp">
+      <Filter>includes\Helper Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio.cpp">
+      <Filter>includes\Helper Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="WelcomeScreen.cpp">
+      <Filter>includes\Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1.cpp">
+      <Filter>includes\Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>includes\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>includes\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>includes\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Star.cpp">
+      <Filter>includes\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverScreen.cpp">
+      <Filter>includes\Levels</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="includes">
+      <UniqueIdentifier>{032534f7-a881-4948-b503-dca8da0087f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="includes\Abstract Classes">
+      <UniqueIdentifier>{4796ee57-d786-47bf-beba-4d31d772054f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="includes\Helper Classes">
+      <UniqueIdentifier>{222e2c6c-496c-42de-a0cc-a7a94d11660f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="includes\Levels">
+      <UniqueIdentifier>{e9b07c12-321b-431f-8fe4-2512a1865c63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="includes\Game Objects">
+      <UniqueIdentifier>{dd7cbe9e-0247-4f7e-bad7-5b2dce709616}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AEntity.h">
+      <Filter>includes\Abstract Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="ALevel.h">
+      <Filter>includes\Abstract Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="AMovable.h">
+      <Filter>includes\Abstract Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="ACollidable.h">
+      <Filter>includes\Abstract Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Helpers.h">
+      <Filter>includes\Helper Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio.h">
+      <Filter>includes\Helper Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Environment.h">
+      <Filter>includes\Helper Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="WelcomeScreen.h">
+      <Filter>includes\Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="Level1.h">
+      <Filter>includes\Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="headers.h" />
+    <ClInclude Include="Player.h">
+      <Filter>includes\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>includes\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>includes\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Boundary.h">
+      <Filter>includes\Helper Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Star.h">
+      <Filter>includes\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverScreen.h">
+      <Filter>includes\Levels</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
