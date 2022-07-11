@@ -1,5 +1,8 @@
 <h3 align="center">Console Invaders</h3>
 <p align="center">Space Invader but its ASCII only!</p>
+
+![Game Play](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/game%20play.gif)
+
 <!-- TABLE OF CONTENTS -->
 <details open>
   <summary>Table of Contents</summary>
@@ -25,8 +28,6 @@
 </details>
 
 ## About The Project
-![Game Play](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/game%20play.gif)
-
 
 ### Background
 
