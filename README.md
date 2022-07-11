@@ -46,8 +46,10 @@ I made this project in 2nd semester. It is made in C++ and not uses any kind of 
 ### Compiling
 
 1. Clone the repo
-2. Move 'sounds' directory to path where executable will be compiled i.e
+2. Open 'Consoleinvaders.sln' in visual studio
+3. Move 'sounds' directory to path where executable will be compiled i.e
 ![placing sounds directory](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/Sound%20Dir.png)
+4. Build and run solution
 
 ## License
 
