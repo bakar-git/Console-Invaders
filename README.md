@@ -25,8 +25,8 @@
 </details>
 
 ## About The Project
+![Game Play](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/game%20play.gif)
 
-![Project Screen Shot 3](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/Level1%20b.png)
 
 ### Background
 
@@ -63,4 +63,5 @@ Abu Bakar - [@BakarAamir](https://twitter.com/BakarAamir) - bakar.git@gmail.com
 
 ![Project Screen Shot 1](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/WelcomeScreen.png)
 ![Project Screen Shot 2](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/Level1%20a.png)
+![Project Screen Shot 3](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/Level1%20b.png)
 ![Project Screen Shot 4](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/GameOver.png)
