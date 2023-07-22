@@ -19,6 +19,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#compiling">Compiling</a></li>
+        <li><a href="#note">Note</a></li>
       </ul>
     </li>
     <li><a href="#license">License</a></li>
@@ -31,7 +32,7 @@
 
 ### Background
 
-I made this project in 2nd semester. It is made in C++ and not uses any kind of graphics library. This project runs only on windows as it uses Window Console APIs 
+I made this project in 1st or 2nd semester. It is made in C++ and not uses any kind of graphics library. This project runs only on windows and it uses Window Console APIs 
 
 ### Built With
 
@@ -51,6 +52,10 @@ I made this project in 2nd semester. It is made in C++ and not uses any kind of 
 3. Move 'sounds' directory to path where executable will be compiled i.e
 ![placing sounds directory](https://github.com/bakar-git/Console-Invaders/blob/main/screen%20shots/Sound%20Dir.png)
 4. Build and run solution
+
+### Note
+
+This project only runs in window command line (cmd.exe). Other terminals i.e windows terminal, bash will not work.  
 
 ## License
 
